@@ -1,11 +1,12 @@
 # 社会システム
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+[劉 子昂](https://zi-ang-liu.github.io/)
 
-Check out the content pages bundled with this sample book to see more.
+<!-- ```{tableofcontents}
+``` -->
 
-```{tableofcontents}
-```
+## Links
+
+- 講義資料：[リレーショナル・データベース](https://zi-ang-liu.github.io/jb-database/intro.html#)
+- 演習課題：[Google Classroom](https://classroom.google.com/c/NzYyMDU2NTAwMTUy?cjc=wihmaz2m)
+- 画面共用：[Meet](https://meet.google.com/aeq-ohjb-hoy)
