@@ -1,0 +1,21 @@
+version: 1
+project:
+  title: Social Systems Engineering
+  authors:
+    - name: Ziang Liu
+  copyright: '2024'
+  github: zi-ang-liu/sse
+  bibliography:
+    - references.bib
+  exports:
+    - format: pdf
+      template: plain_latex_book
+      output: exports/book.pdf
+  toc:
+    - file: intro.md
+    - file: markdown.md
+site:
+  options:
+    logo: logo.png
+    folders: true
+  template: book-theme
