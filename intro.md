@@ -1,5 +1,7 @@
 # 社会システム
 
+社会システム（1年生/秋学期/金曜3限）
+
 I am a book about ... something! Wikipedia has [information about books](wiki:book): hover over the link for more information.
 
 % An admonition containing a note
