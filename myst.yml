@@ -11,6 +11,7 @@ project:
       email: liu@hosei.ac.jp
       github: zi-ang-liu
       url: "https://zi-ang-liu.github.io"
+      orcid: 0000-0002-1364-3502
   github: zi-ang-liu/jb-sse
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
   toc:
