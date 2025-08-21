@@ -2,8 +2,8 @@
 version: 1
 project:
   id: 3f02abb3-e135-4515-b583-ceeaf2e5872b
-  title: 社会システム
-  description: A lecture note for the course "Social Systems Engineering" at Hosei University.
+  title: システム工学
+  description: A lecture note for System Engineering at Hosei University.
   # keywords: []
   authors: 
     - name: 劉 子昂
